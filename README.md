@@ -24,7 +24,7 @@
 
 
  ![Go-Coding1's GitHub stats](https://github-readme-stats.vercel.app/api?username=go-coding1&show_icons=true&theme=radical)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunhaDevGit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=go-coding1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
