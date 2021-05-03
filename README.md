@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Go-Coding1&fontSize=90)
 
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+  https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <!--
 **go-coding1/go-coding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
