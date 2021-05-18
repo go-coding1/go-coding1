@@ -10,7 +10,7 @@
 <p align="center">Hi I am Go-Coding. </p>
 <p align="center">Hope To Be Back_End Developer. </p>
 <p align="center">Graduated From Hansung .Uni  </p>
-<p align="center">Major In Computer Science </p>
+<p align="center">Major In Computer Science. </p>
 
 
  ![Go-Coding1's GitHub stats](https://github-readme-stats.vercel.app/api?username=go-coding1&show_icons=true&theme=radical)
